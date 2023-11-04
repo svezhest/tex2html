@@ -5,12 +5,13 @@
 При необходимости используйте MathML.
 Пример:
 
-$a_i = b_i + x^2$
+`$a_i = b_i + x^2$`
+
 Вывод:
 
-```<i>a</i><sub><i>i</i></sub> = <i>b</i><sub><i>i</i></sub> +
-<i>x</i><sup>2</sup>```
+`<i>a</i><sub><i>i</i></sub> = <i>b</i><sub><i>i</i></sub> + <i>x</i><sup>2</sup>`
 
+$a_i = b_i + x^2$
 
 ### Модификация
 frac{}{} и команды по типу \tiny
